@@ -1,0 +1,6 @@
+- unit tests
+- configure cmake with different compilers:
+  - clang++ --std=C++11
+  - clang++ --std=C++14
+  - g++ --std=C++11
+  - g++ --std=C++14
