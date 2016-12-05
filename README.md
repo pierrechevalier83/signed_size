@@ -1,8 +1,8 @@
-= signed_size
+# signed_size
 
 A header only utility function for getting the size of a container as a signed type.
 
-= Motivation
+# Motivation
 
 In a nutshell:
 It allows to use old-style for loops without triggering sign comparison warnings:
@@ -14,7 +14,7 @@ It allows to use old-style for loops without triggering sign comparison warnings
 
 Check out [this article](https://pierrec.tech/articles/code/signed_vs_unsigned_int.html) for a detailed explanation about the motivation.
 
-= Build
+# Build
 
 - `mkdir build`
 - `cd build`
